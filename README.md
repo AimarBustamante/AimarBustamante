@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFSrfaJmcU/AEZkozaB-Ejv992YGIUKFw/edit?utm_content=DAFSrfaJmcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFSrfaJmcU/AEZkozaB-Ejv992YGIUKFw/edit?utm_content=DAFSrfaJmcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I don´t like cofee**
+- ⚡ Fun fact: **I don´t like cofee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
