@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aimar Bustamante</h1>
-<h3 align="center">A passionate frontend developer from Panama</h3>
+<h3 align="center">A passionate frontend developer from Panama :panama:</h3>
 
 - 🔭 I’m currently working as **Independent Front-End Developer**
 
