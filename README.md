@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aimar Bustamante</h1>
 <h3 align="center">A passionate frontend developer from Panama :panama:</h3>
 
-- 🔭 I’m currently working as **Independent Front-End Developer**
+- 🔭 I’m currently working as **Frontend Developer**
 
 - 📫 How to reach me **aimarbustamante379@gmail.com**
 
