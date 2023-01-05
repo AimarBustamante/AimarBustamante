@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Proyects to improve my skills**
 
-- 🌱 I’m currently learning **SASS and JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://aimarbusta.netlify.app/](https://aimarbusta.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, JS & Bootstrap**
 
 - 📫 How to reach me **aimarbustamante379@gmail.com**
 
