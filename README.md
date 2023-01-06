@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://aimarbusta.netlify.app/](https://aimarbusta.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://aimarbusta.netlify.app/](https://aimarbusta.netlify.app/)
 
-- 📫 How to reach me **aimarbustamante379@gmail.com**
+- 📫 How to reach me: **aimarbustamante379@gmail.com**
 
-- ⚡ Fun fact **I don´t like cofee**
+- ⚡ Fun fact: **I don´t like cofee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
