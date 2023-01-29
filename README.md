@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏻, I'm Aimar Bustamante</h1>
-<h3 align="center">A passionate frontend developer from Panama 🇵🇦 </h3>
+<h1 align="center">Hi 👋, I'm Aimar Bustamante</h1>
+<h3 align="center">A passionate frontend developer from Panama</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimarbustamante&label=Profile%20views&color=0e75b6&style=flat" alt="aimarbustamante" /> </p>
 
@@ -9,18 +9,23 @@
 
 - 🔭 I’m currently working on **Proyects to improve my skills**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://aimarbusta.netlify.app/](https://aimarbusta.netlify.app/)
+- 👯 I’m looking to work as a **Frontend Developer**
 
-- 📫 How to reach me **aimarbustamante379@gmail.com**
+- 👨‍💻 My portfolio: **[https://aimarbusta.netlify.app/](https://aimarbusta.netlify.app/)**
 
-- ⚡ Fun fact **I don´t like cofee**
+- 💬 Ask me about **HTML, CSS, JS, SASS & Bootstrap**
+
+- 📫 How to reach me: **aimarbustamante379@gmail.com**
+
+- ⚡ Fun fact: **Tea > Coffe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aimarbusta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aimarbusta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aimar bustamante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimar bustamante" height="30" width="40" /></a>
+<a href="https://instagram.com/aimarbusta.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aimarbusta.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
