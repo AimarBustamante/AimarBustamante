@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋🏻, I'm Aimar Bustamante</h1>
+<h1 align="center">Hi 👋, I'm Aimar Bustamante</h1>
 <h3 align="center">A passionate frontend developer from Panama</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimarbustamante&label=Profile%20views&color=0e75b6&style=flat" alt="aimarbustamante" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimarbustamante" alt="aimarbustamante" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aimarbusta" target="blank"><img src="https://img.shields.io/twitter/follow/aimarbusta?logo=twitter&style=for-the-badge" alt="aimarbusta" /></a> </p>
 
 - 🔭 I’m currently working on **Proyects to improve my skills**
 
@@ -13,13 +11,13 @@
 
 - 👯 I’m looking to work as a **Frontend Developer**
 
-- 👨‍💻 My portfolio: **[https://aimarbusta.netlify.app/](https://aimarbusta.netlify.app/)**
+- 👨‍💻 My portfolio: [https://aimarbusta.netlify.app/](https://aimarbusta.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, SASS & Bootstrap**
 
 - 📫 How to reach me: **aimarbustamante379@gmail.com**
 
-- ⚡ Fun fact: **Tea > Coffe**
+- ⚡ Fun fact: **Tea > Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aimarbustamante&show_icons=true&locale=en&layout=compact" alt="aimarbustamante" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimarbustamante&show_icons=true&locale=en" alt="aimarbustamante" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimarbustamante&" alt="aimarbustamante" /></p>
