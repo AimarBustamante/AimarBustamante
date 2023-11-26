@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Proyects to improve my skills**
 
-- 🌱 Currently learning **JavaScript**
+- 🌱 Currently learning **React**
 
 - 👯 I’m looking to work as a **Frontend Developer**
 
