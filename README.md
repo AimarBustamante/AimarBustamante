@@ -5,6 +5,7 @@ A passionate frontend developer from Panama 🇵🇦
 I was born on November 15, 2004 in Panama City. Since I was a kid I've always been interested in technology and everything behind it. I started programming with Python but when I started learning HTML, I decided study web development.
 
 I love learn, I'm completely self-taught and I owe most of my knowledge to YouTube and the wonderful community of developers around the world.
+
 ## 🛠 Skills
 
 #### Languages
