@@ -1,4 +1,3 @@
-
 # Hi 👋🏻, I'm Aimar Bustamante
 A passionate frontend developer from Panama 🇵🇦
 
@@ -6,7 +5,6 @@ A passionate frontend developer from Panama 🇵🇦
 I was born on November 15, 2004 in Panama City. Since I was a kid I've always been interested in technology and everything behind it. I started programming with Python but when I started learning HTML, I decided study web development.
 
 I love learn, I'm completely self-taught and I owe most of my knowledge to YouTube and the wonderful community of developers around the world.
-
 ## 🛠 Skills
 
 #### Languages
@@ -39,7 +37,7 @@ I love learn, I'm completely self-taught and I owe most of my knowledge to YouTu
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimarbustamante/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aimarbusta.dev/) 
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aimarbustamante379@hotmail.com) 
-
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/65167602) 
 
 ## Other Common Github Profile Sections
 👩‍💻 I’m currently working on **Proyects to improve my skills**
@@ -53,5 +51,3 @@ I love learn, I'm completely self-taught and I owe most of my knowledge to YouTu
 📫 How to reach me **aimarbustamante379@hotmail.com**
 
 ⚡ Fun fact **Tea > Coffee**
-
-
