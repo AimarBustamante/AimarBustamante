@@ -22,6 +22,9 @@ I love learn, I'm completely self-taught and I owe most of my knowledge to YouTu
 #### No code
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 
+#### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+
 #### E-commerce
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white) 
 
