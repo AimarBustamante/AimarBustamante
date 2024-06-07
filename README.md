@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, SASS & Bootstrap**
 
-- 📫 How to reach me **aimarbustamante379@gmail.com**
+- 📫 How to reach me **aimarbustamante379@hotmail.com**
 
 - ⚡ Fun fact **Tea > Coffee**
 
