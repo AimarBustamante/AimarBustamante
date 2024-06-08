@@ -46,7 +46,7 @@ I love learn, I'm completely self-taught and I owe most of my knowledge to YouTu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aimarbusta.dev/) 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aimarbustamante379@hotmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/65167602) 
-[![Frontend_Mentor](https://img.shields.io/badge/frontendmentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/AimarBustamante) 
+[![Frontend_Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/AimarBustamante) 
 
 ## Other Common Github Profile Sections
 👩‍💻 I’m currently working on **Proyects to improve my skills**
