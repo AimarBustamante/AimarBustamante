@@ -6,7 +6,7 @@ I was born on November 15, 2004 in Panama City. Since I was a kid I've always be
 
 I love learn, I'm completely self-taught and I owe most of my knowledge to YouTube and the wonderful community of developers around the world.
 
-👩‍💻 I’m currently working on **Proyects to improve my skills**
+👩‍💻 I’m currently working on **A new portfolio**
 
 🧠 I’m currently learning **React**
 
