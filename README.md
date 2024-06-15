@@ -1,6 +1,8 @@
 # Hi 👋🏻, I'm Aimar Bustamante
 A passionate frontend developer from Panama 🇵🇦
 
+<img src="{https://github-readme-activity-graph.vercel.app/graph?username={AimarBustamante}" />
+
 ## 🚀 About Me
 I was born on November 15, 2004 in Panama City. Since I was a kid I've always been interested in technology and everything behind it. I started programming with Python but when I started learning HTML, I decided study web development.
 
