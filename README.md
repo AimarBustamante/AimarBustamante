@@ -1,7 +1,8 @@
-# Hi 👋🏻, I'm Aimar Bustamante
-A passionate frontend developer from Panama 🇵🇦
+![Profile_Card](https://github-profile-trophy.vercel.app/?username=AimarBustamante&theme=radical)
 
-<img src="{https://github-readme-activity-graph.vercel.app/graph?username={AimarBustamante}" />
+# Hi 👋🏻, I'm Aimar Bustamante
+
+A passionate frontend developer from Panama 🇵🇦
 
 ## 🚀 About Me
 I was born on November 15, 2004 in Panama City. Since I was a kid I've always been interested in technology and everything behind it. I started programming with Python but when I started learning HTML, I decided study web development.
@@ -60,6 +61,12 @@ I love learn, I'm completely self-taught and I owe most of my knowledge to YouTu
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 ![HP_Laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) 
+
+## 📊 My Stats
+
+![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AimarBustamante&theme=radical)
+![Activity_Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AimarBustamante&theme=radical)
+![GitHub_Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AimarBustamante&theme=radical)
 
 ## 🔗 Links
 [![My_Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aimarbusta.netlify.app/)
