@@ -1,5 +1,3 @@
-![Profile_Card](https://github-profile-trophy.vercel.app/?username=AimarBustamante&theme=radical)
-
 # Hi 👋🏻, I'm Aimar Bustamante
 
 A passionate frontend developer from Panama 🇵🇦
@@ -63,10 +61,11 @@ I love learn, I'm completely self-taught and I owe most of my knowledge to YouTu
 ![HP_Laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) 
 
 ## 📊 My Stats
-
-![Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AimarBustamante&theme=radical)
-![Activity_Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AimarBustamante&theme=radical)
-![GitHub_Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AimarBustamante&theme=radical)
+![Profile_details_card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AimarBustamante&theme=2077)
+![Languages_By_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AimarBustamante&theme=2077)
+![Languages_By_Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AimarBustamante&theme=2077)
+![Stars](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AimarBustamante&theme=2077)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AimarBustamante&theme=2077&utcOffset=8)
 
 ## 🔗 Links
 [![My_Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aimarbusta.netlify.app/)
