@@ -3,9 +3,11 @@
 A passionate frontend developer from Panama 🇵🇦
 
 ## 🚀 About Me
-I was born on November 15, 2004 in Panama City. Since I was a kid I've always been interested in technology and everything behind it. I started programming with Python but when I started learning HTML, I decided study web development.
+My name is Aimar, I'm passionate about web development. Since I was young, technology has been my passion. My journey in programming started with Python, but upon discovering HTML, I fully immersed myself in the world of web development.
 
-I love learn, I'm completely self-taught and I owe most of my knowledge to YouTube and the wonderful community of developers around the world.
+I consider myself a fervent self-learner. Continuously learning and improving is something that motivates me, and I enjoy sharing what I know with others.
+
+Throughout my career, I have had the opportunity to work on various projects that have allowed me to grow and acquire new skills. I am committed to continuous improvement and always look for ways to add value to every team I collaborate with.
 
 👩‍💻 I’m currently working on **A new portfolio**
 
