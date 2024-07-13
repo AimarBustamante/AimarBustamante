@@ -11,7 +11,7 @@ I consider myself a fervent self-learner. Continuously learning and improving is
 
 Throughout my career, I have had the opportunity to work on various projects that have allowed me to grow and acquire new skills. I am committed to continuous improvement and always look for ways to add value to every team I collaborate with.
 
-👩‍💻 I’m currently working on **A new portfolio**
+👩‍💻 I’m currently working on **New projects to improve my skills**
 
 🧠 I’m currently learning **React**
 
