@@ -2,6 +2,8 @@
 
 A passionate frontend developer from Panama 🇵🇦
 
+![Profile_details_card](https://github-readme-activity-graph.vercel.app/graph?username=AimarBustamante&theme=github-compact)
+
 ## 🚀 About Me
 My name is Aimar, I'm passionate about web development. Since I was young, technology has been my passion. My journey in programming started with Python, but upon discovering HTML, I fully immersed myself in the world of web development.
 
