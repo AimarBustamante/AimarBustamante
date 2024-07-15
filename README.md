@@ -2,6 +2,7 @@
 
 A passionate frontend developer from Panama 🇵🇦
 
+![Throphy_stats](https://github-profile-trophy.vercel.app/?username=AimarBustamante&theme=onedark)
 ![Profile_details_card](https://github-readme-activity-graph.vercel.app/graph?username=AimarBustamante&theme=github-compact)
 
 ## 🚀 About Me
